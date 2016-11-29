@@ -1,5 +1,7 @@
-# echo-sonos
-All of the pieces for an Amazon Echo (Alexa) <-> Sonos integration.
+WiP - trying to use what I can to create the same integration with the Logitech LMS (although I don't hold up much hope as I am new to this).
+
+# echo-SqueezeLMS
+All of the pieces for an Amazon Echo (Alexa) <-> Logitech LMS integration.
 
 # Usage
 
