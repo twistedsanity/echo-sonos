@@ -1,4 +1,4 @@
-WiP - trying to use what I can to create the same integration with the Logitech LMS (although I don't hold up much hope as I am new to this).
+WiP - trying to use what I can to create the same integration with the Logitech LMS though probably leveraging NodeRED (although I don't hold up much hope as I am new to this).
 
 # echo-SqueezeLMS
 All of the pieces for an Amazon Echo (Alexa) <-> Logitech LMS integration.
